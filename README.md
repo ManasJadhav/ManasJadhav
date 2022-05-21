@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, Next.js**
 
-- 💬 Ask me about **Web-development, Pandas, Numpy, And MERN**
+- 💬 Ask me about **Web-development , MERN , Data analysis libraries and CPP**
 
 - 📫 How to reach me **manasjjadhav@gmail.com**
 
