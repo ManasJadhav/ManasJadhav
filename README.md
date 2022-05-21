@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas Jitendra Jadhav</h1>
 <h3 align="center">A passionate and motivated individual from Nashik. I am currently studying in Pune Institute Of Computer Technology.I am an easy go person and loves to read and learn Web-Development and Data Analysis.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasjadhav" alt="manasjadhav" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasjadhav" alt="manasjadhav" /></a> </p> -->
 
 - 🌱 I’m currently learning **Redux, Next.js**
 
