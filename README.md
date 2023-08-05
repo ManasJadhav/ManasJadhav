@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Redux, react-native**
 
-- 💬 Ask me about **Web-development , MERN , CPP , Numpy and pandas**
+- 💬 Ask me about **Fullstack , frontend & backend Web development in MERN stack**
 
 - 📫 Reach me at **manasjjadhav@gmail.com**
 
